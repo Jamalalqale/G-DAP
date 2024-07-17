@@ -1,6 +1,6 @@
 # G-DAP
 
-The aim of this project is to analyse global domains.It is conducted by retrieving the top 1000 domains from each country and extracting their historical URLs. By segmenting and analyzing these URLs, we are identifying the top 1000 most frequent segments per country. This analysis offers insights into web content structure and trends, enhancing cybersecurity by detecting common patterns and potential vulnerabilities.
+This is conducted by retrieving the top 1000 domains from each country and extracting their historical URLs. By segmenting and analyzing these URLs, we are identifying the top 1000 most frequent segments per country. This analysis offers insights into web content structure and trends, enhancing cybersecurity by detecting common patterns and potential vulnerabilities.
 
 
 ## Tools used
