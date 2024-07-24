@@ -7,7 +7,7 @@ This involves retrieving the top 1000 domains from each country and extracting t
 WE identify the most 1000 frequent segmnres per country. we have cleanded each urls from Get paramerters before. 
 
 
-![alt text](https://github.com/Jamalalqale/G-DAP/Report/FranceTopKeyReport.png?raw=true)
+![alt text](https://github.com/Jamalalqale/G-DAP/blob/main/Report/FranceTopKeyReport.png?raw=true)
 
 
 
