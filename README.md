@@ -6,14 +6,21 @@ This involves retrieving the top 1000 domains from each country and extracting t
 
 WE identify the most 1000 frequent segmnres per country. we have cleanded each urls from Get paramerters before. 
 
+![alt text](https://github.com/Jamalalqale/G-DAP/blob/main/Report/FranceTopSegments.png?raw=true)
 
-![alt text](https://github.com/Jamalalqale/G-DAP/blob/main/Report/FranceTopKeyReport.png?raw=true)
+
+![alt text](https://github.com/Jamalalqale/G-DAP/blob/main/Report/ItalyTopSegments.png?raw=true)
 
 
 
 ## Top Keys
 
 We extract GET parameters (keys and values) from the URLs and identify the 1000 most frequent keys for each country. Then, we determine the top frequent value for each key. For example, in the France-Top_1000-Keys list, the 'language' key ranks 5th, appearing 6,755,432 times, with 'en' being its most frequent value, paired 337,244 times with the key, accounting for 4.9% of all values for this key. The remaining percentages are distributed among various other values. Sometimes, the most frequent value for a key is empty; this is not an error, as it has been verified. For instance, in the France-Top_1000-Keys list, the most frequent value for the 'url' key is null/empty.
+
+![alt text](https://github.com/Jamalalqale/G-DAP/blob/main/Report/FranceTopKeyReport.png?raw=true)
+
+
+![alt text](https://github.com/Jamalalqale/G-DAP/blob/main/Report/ItalyTopKeyReport.png?raw=true)
 
 
 ## Top Values
